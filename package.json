@@ -1,5 +1,5 @@
 {
-    "name": "@elizaos/plugin-lit",
+    "name": "@elizaos-plugins/plugin-lit",
     "version": "0.1.9",
     "type": "module",
     "main": "dist/index.js",
@@ -19,7 +19,6 @@
         "dist"
     ],
     "dependencies": {
-        "@elizaos/core": "workspace:*",
         "@elizaos/plugin-tee": "workspace:*",
         "@lifi/data-types": "5.15.5",
         "@lifi/sdk": "3.4.1",
